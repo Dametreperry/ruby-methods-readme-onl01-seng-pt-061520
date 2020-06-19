@@ -11,3 +11,4 @@ def greetings_ten_times
   puts greetings
   puts greetings
 end
+
