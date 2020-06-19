@@ -1,4 +1,5 @@
 def greeting= "GREETINGS EARTHLINGS"
 end
 
-puts greeting 
+def greetings_ten_times
+  
